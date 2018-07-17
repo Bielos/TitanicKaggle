@@ -7,3 +7,5 @@ Ensamble learning (Hard Voting classifier) model with feature engineering.
   * Numpy = v1.13.3+
   * Scikit-learn = v0.18.1+
   * XGBoost = v0.72+
+
+<a href="https://www.kaggle.com/danielmartinezb/titanic-prediction-using-ensemble-learning">**Kaggle**</a>
